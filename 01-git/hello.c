@@ -2,7 +2,7 @@
 
 int main() {
     printf("aaslema\n");
-    printf("Hello, World!\n");
+    printf("je suis le master\n");
     return 0;
 
 }
